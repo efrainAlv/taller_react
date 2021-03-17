@@ -1,4 +1,1 @@
-# taller_react
-Programación web con React
-
-### Taller React
+##### Programacion web con React
